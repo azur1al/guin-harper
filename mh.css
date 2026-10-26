@@ -9,7 +9,7 @@
 
 @font-face {
   font-family: 'Text';
-  src: url(/fonts/Biro_Script_reduced.otf);
+  src: url(./fonts/Biro_Script_reduced.otf);
 }
 
 body {
